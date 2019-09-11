@@ -85,9 +85,6 @@
                             <constraint firstItem="J75-gb-7AP" firstAttribute="width" secondItem="B7s-MS-Osg" secondAttribute="width" id="yd8-D1-ATd"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="bgImg" destination="wpv-Ih-Twr" id="njP-ER-VOe"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
