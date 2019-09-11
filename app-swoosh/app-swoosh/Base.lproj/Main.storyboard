@@ -93,10 +93,10 @@
             </objects>
             <point key="canvasLocation" x="327.536231884058" y="86.413043478260875"/>
         </scene>
-        <!--View Controller-->
+        <!--LeagueVC-->
         <scene sceneID="pzz-k3-2AB">
             <objects>
-                <viewController id="LkZ-cC-XHk" sceneMemberID="viewController">
+                <viewController id="LkZ-cC-XHk" customClass="LeagueVC" customModule="app_swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="oRB-4M-Hya"/>
                         <viewControllerLayoutGuide type="bottom" id="XuQ-c7-VOJ"/>
@@ -213,10 +213,10 @@
             </objects>
             <point key="canvasLocation" x="1066" y="86"/>
         </scene>
-        <!--View Controller-->
+        <!--SkillVC-->
         <scene sceneID="etd-mh-UMD">
             <objects>
-                <viewController id="Amf-6C-X2C" sceneMemberID="viewController">
+                <viewController id="Amf-6C-X2C" customClass="SkillVC" customModule="app_swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Fr7-w5-236"/>
                         <viewControllerLayoutGuide type="bottom" id="BMf-ba-Wj2"/>
