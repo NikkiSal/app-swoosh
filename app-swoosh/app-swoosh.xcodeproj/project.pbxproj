@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8DC8D91B232C33CF00DD8A5C /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC8D91A232C33CF00DD8A5C /* Player.swift */; };
 		8DFEAAA2232719FD002C66BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DFEAAA1232719FD002C66BD /* AppDelegate.swift */; };
 		8DFEAAA4232719FD002C66BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DFEAAA3232719FD002C66BD /* ViewController.swift */; };
 		8DFEAAA7232719FD002C66BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DFEAAA5232719FD002C66BD /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8DC8D91A232C33CF00DD8A5C /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		8DFEAA9E232719FD002C66BD /* app-swoosh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "app-swoosh.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DFEAAA1232719FD002C66BD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8DFEAAA3232719FD002C66BD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 		8DFEAAB723295E35002C66BD /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				8DC8D91A232C33CF00DD8A5C /* Player.swift */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 				8DFEAAB923298D34002C66BD /* LeagueVC.swift in Sources */,
 				8DFEAAA2232719FD002C66BD /* AppDelegate.swift in Sources */,
 				8DFEAAB5232806B9002C66BD /* BorderButton.swift in Sources */,
+				8DC8D91B232C33CF00DD8A5C /* Player.swift in Sources */,
 				8DFEAABB23298D46002C66BD /* SKillVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -335,6 +339,7 @@
 				8DFEAAB2232719FD002C66BD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
